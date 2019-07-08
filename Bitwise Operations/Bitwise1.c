@@ -33,7 +33,7 @@ int main()
         else{
             printf("0");
         }
-        byte <<= 1;
+        byte <<= 1 ;
     }
     printf("'B\n");
 
