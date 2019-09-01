@@ -15,8 +15,8 @@ This thought needs a looping structures or usage of pre defined functions like s
 This is caused the fact that c-type string "variable" is only pointer to section in memory 
 that holds the first character of that string followed by the rest of the characters making that string
 
-More examples c-type strings  can be found under folder c_type_string.
-More about pointers and memory locate the folder c_mem_handling.
+More examples about c-type strings can be found under c_string -folder.
+More examples about pointers and memory is located under the pointers -folder.
 
 
 */
