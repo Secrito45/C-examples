@@ -1,7 +1,8 @@
-Pointers and memory adresses
+Osoittimet (pointers) ja muistiosoitteet (adresses)
 ===
 
-This example set tries to explain what are pointers and memory adresses
+Tämä esimerkki osio pyrkii selittämään osoittimet ja muistiosotteiden käyttöä c kielessä. Erityisesti muistinhallinnan näkökulmasta osoittimet ovat erittäin hyödyllisiä.
 
-If you don't feel yet comfortable with programming and code reading I recommend checking the 
-basics folder and trying the examples and exercises there.
+Suositeltavaa olisi ensin tutustua pointers_and_adresses.c tiedostoon, koska tässä pyritään selittämään osotteiden ja osoittimien toimintaa.
+
+Jos koodin lukeminen ja tulkitseminen tuntuu vielä hieman epävarmalta suosittelen suuntaamaan "basics" kansioon ja tutustumaan ensin sielä esitettyihin esimerkkeihin.
