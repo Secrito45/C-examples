@@ -23,9 +23,9 @@ int main(int argc, char const *argv[])
 {
     //Needs the struct keyword
     struct names nameList[] = {{"Konsta", "Siekkeli"},
-        {"Aino", "Kauppala"},
-        {"Kaisa", "Siekkeli"},
-        {"Tuulikki", "Haimi-Siekkeli"}
+        {"Kaija", "Kajuutta"},
+        {"Riikka", "Ruusukaali"},
+        {"Tapio", "Karhula"}
     };
     //Don't need the struct keyword
     value values[3] = {{123, 43},{234,3},{4, 523}};
