@@ -11,7 +11,7 @@ explaining the topic you find bothering. Thread languages: English or Finnish pr
 
 English version is added to the every 
 
-# C ohjelmointi: Perusteet
+# C Programming: Basics
 
 ## Hello, World!
 
