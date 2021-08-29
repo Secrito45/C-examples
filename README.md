@@ -15,58 +15,60 @@ English version is added to the every
 
 ## Hello, World!
 
-## Muuttujat
+## Variables
 
-## Input/Output perusteet
+## Input/Output Basics
 
-## Talulukot (engl. Arrays)
+## Arrays
 
-## C-merkkijono (engl. C-style String)
+## C-style String
 
-**Lähteet:**
+**Sources used:**
 * https://www.tutorialspoint.com/cprogramming/c_strings.htm
 * https://www.geeksforgeeks.org/strings-in-c-2/
 
-## Input/Output kehittyneempi käyttö
+## Input/Output Advanced Usage
 
-## Funktiot
+## Functions
 
-## const Avainsana
+## 'const' Keyword
 
-### const merkkijono
+### 'const' Strings
 
-**Lähteet:**
+**Sources used:**
 * https://eklitzke.org/declaring-c-string-constants-the-right-way
 
-# C ohjelmointi: Syvempi katsaus C-kieleen
+# C Programming: Deeper look to the C-language
 
-Tässä osiossa tutustutaan perusteita hieman syvemmin C-kielen ominaisuukiin ja käyttöön.
+~~Tässä osiossa tutustutaan perusteita hieman syvemmin C-kielen ominaisuukiin ja käyttöön.~~
+> Translate to english 
 
-## Osoittimet ja muistiosoitteet
+## Pointers and Memory Addresses
 
-**Lähteet:**
+**Sources used:**
 * https://www.geeksforgeeks.org/difference-const-char-p-char-const-p-const-char-const-p/
 
-## Funktiot ja osoittimet
+## Functions and Pointers
 
-## Merkkijonojen käsittely ja string.h
+## Handling Strings with string.h
 
-**Lähteet:**
+**Sources used:**
 * http://www.cplusplus.com/reference/cstdio/sprintf/
 
-## Tiedostojen käsittely
+## Handling Files
 
-**Lähteet:**
+**Sources used:**
 * http://www.cplusplus.com/reference/cstdio/sprintf/
 
-## Tietueet (engl. Struct)
+## Structs (Fin. Tietue)
 
-## Otsake- ja ohjelmatiedostot
+## Header and Program Files
 
-## Static Avainsana
+## Static Keyword
 
-## Oman kirjaston luominen
+##  MyLibrary How to
 
-# C ohjelmointi: Kehittyneemmät ominaisuudet
+# C Programming: Advanced Features
 
-Tämä osio pitää sisällään kaikki kikat ja taikatemput C:n ominaisuuksien täydelliseen hyödyntämiseen.
+~~Tämä osio pitää sisällään kaikki kikat ja taikatemput C:n ominaisuuksien täydelliseen hyödyntämiseen.~~
+> Translate to English
